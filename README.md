@@ -3,7 +3,7 @@ Třetí projekt v Python akademii od Engeta.
 
 ## Popis projektu
 
-Tento projekt slouží k extrahování výsledků parlamentních voleb v r. 2017. Odkaz k prohlédnutí najdete [zde]([https://www.volby.cz](https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ).
+Tento projekt slouží k extrahování výsledků parlamentních voleb v r. 2017. Odkaz k prohlédnutí najdete [zde](https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ).
 
 ## Instalace knihoven
 
